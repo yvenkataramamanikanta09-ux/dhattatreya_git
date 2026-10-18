@@ -1,4 +1,8 @@
 good morning sir
 who hell are to tell that
+<<<<<<< HEAD
 
 get out from my mother land
+=======
+ok man, whatever happens, happens; don't be obsessed over it
+>>>>>>> 16f9c28dfb24243d3d34b9eb0b7d7f7c51c002d7
